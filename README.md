@@ -1,5 +1,5 @@
 # libtmjax:
-<center> **_a library for tilemaps in .tmj and .tmx formats._** </center>
+ **_<center>  a library for tilemaps in .tmj and .tmx formats. </center>_**
 
 
 
